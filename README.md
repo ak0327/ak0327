@@ -1,4 +1,8 @@
 
+![ak0327's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak0327&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak0327&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 42Tokyo Project Overview is -> [Here](https://github.com/ak0327/42tokyo/blob/main/README.md)
 
 <!--
