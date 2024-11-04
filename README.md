@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak0327&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak0327&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 42Tokyo Project Overview is -> [Here](https://github.com/ak0327/42tokyo/blob/main/README.md)
 
